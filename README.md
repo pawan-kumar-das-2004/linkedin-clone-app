@@ -42,13 +42,13 @@ cd linkedin-clone-app
 
 #### 📦 Backend
 ```bash
-cd server
+cd backend
 npm install
 ```
 
 #### 📦 Frontend
 ```bash
-cd client
+cd frontend
 npm install
 ```
 
@@ -71,13 +71,13 @@ VITE_API_URL=http://localhost:5000/api
 
 #### ▶️ Start Backend
 ```bash
-cd server
+cd backend
 npm run dev
 ```
 
 #### ▶️ Start Frontend
 ```bash
-cd client
+cd frontend
 npm run dev
 ```
 
